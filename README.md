@@ -10,5 +10,4 @@ Connect to your SLURM environment using a SOCKS proxy. For example, in Mac OS se
 
 Run your SLURM script and run ssh_generator.sh on the **login node**. This could be done within your SLURM script as long as you SSH to the login node.
 
-
-
+Connect to the application port on your computer via localhost
